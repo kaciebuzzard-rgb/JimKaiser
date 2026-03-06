@@ -1,1 +1,23 @@
-
+JimKaiser/
+├── index.html
+├── about.html
+├── leadership.html
+├── resume.html
+├── contact.html
+├── 404.html
+│
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── img/
+│   │   ├── jim-kaiser-cfo-headshot.jpg
+│   │   ├── skyline.jpg
+│   │   └── og-image.jpg
+│   ├── files/
+│   │   ├── Jim_Kaiser_CFO_Resume.pdf
+│   │   └── Jim_Kaiser_CFO_Resume.docx
+│   └── favicon/
+│       ├── favicon.ico
+│       └── apple-touch-icon.png
+│
+└── README.md
