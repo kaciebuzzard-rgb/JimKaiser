@@ -3,158 +3,174 @@ layout: default
 title: Home
 ---
 
-<section class="hero">
+<section class="hero" id="top">
+  <div class="hero-overlay"></div>
 
-<div class="wrap hero-inner">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">Chief Financial Officer</p>
 
-<img src="/assets/img/headshot.jpg" 
-alt="Jim Kaiser Chief Financial Officer"
-class="hero-photo">
+      <h1>Jim Kaiser</h1>
 
-<h1>Jim Kaiser</h1>
+      <p class="hero-title">
+        Strategic finance leader focused on growth, operational discipline, and enterprise value creation.
+      </p>
 
-<p class="hero-title">
-Chief Financial Officer | Strategic Finance Leader
-</p>
+      <p class="hero-sub">
+        Jim Kaiser is a senior finance executive with deep experience guiding organizations through growth,
+        transformation, and complex operating environments. He brings a pragmatic, data-driven approach to
+        financial leadership, partnering with executive teams and boards to improve performance, strengthen
+        decision-making, and create long-term value.
+      </p>
 
-<p class="hero-sub">
-Finance executive with deep experience in financial strategy, operational leadership, and value creation. 
-Known for building high-performing finance organizations and guiding companies through growth, transformation, 
-and complex financial environments.
-</p>
+      <div class="hero-buttons">
+        <a class="btn" href="/assets/Jim-Kaiser-Resume.pdf">Download Resume</a>
+        <a class="btn btn-ghost" href="#contact">Contact</a>
+      </div>
+    </div>
 
-<div class="hero-buttons">
-
-<a class="btn" href="/assets/Jim-Kaiser-Resume.pdf">
-Download Resume
-</a>
-
-<a class="btn btn-ghost" href="#contact">
-Contact
-</a>
-
-</div>
-
-</div>
-
+    <div class="hero-media">
+      <img src="/assets/img/headshot.jpg" alt="Jim Kaiser, Chief Financial Officer">
+    </div>
+  </div>
 </section>
 
+<section class="highlights">
+  <div class="wrap highlights-grid">
+    <div class="highlight-card">
+      <h3>Strategic Finance</h3>
+      <p>Leading long-range planning, capital strategy, forecasting, and financial performance management.</p>
+    </div>
 
+    <div class="highlight-card">
+      <h3>Operational Leadership</h3>
+      <p>Improving efficiency, strengthening controls, and aligning finance with business execution.</p>
+    </div>
 
-<section id="about">
+    <div class="highlight-card">
+      <h3>Executive Partnership</h3>
+      <p>Serving as a trusted advisor to CEOs, leadership teams, and boards during pivotal business moments.</p>
+    </div>
 
-<div class="wrap about-grid">
-
-<div class="about-text">
-
-<h2>About</h2>
-
-<p>
-Jim Kaiser is a seasoned Chief Financial Officer with extensive experience leading 
-financial strategy, operational performance, and long-term value creation across 
-growing and established organizations.
-</p>
-
-<p>
-His leadership spans financial planning and analysis, capital strategy, 
-risk management, operational transformation, and executive partnership 
-with CEOs and boards to guide companies through growth, change, and complexity.
-</p>
-
-<p>
-Jim is known for combining financial rigor with pragmatic leadership — 
-building finance teams that drive insight, accountability, and strategic clarity.
-</p>
-
-</div>
-
-</div>
-
+    <div class="highlight-card">
+      <h3>Value Creation</h3>
+      <p>Helping organizations navigate change, drive profitability, and build durable enterprise value.</p>
+    </div>
+  </div>
 </section>
 
+<section id="about" class="section">
+  <div class="wrap about-grid">
+    <div class="section-copy">
+      <p class="section-label">About</p>
+      <h2>Finance leadership grounded in clarity, discipline, and results.</h2>
+    </div>
 
+    <div class="section-text">
+      <p>
+        Jim Kaiser is an experienced Chief Financial Officer known for combining financial rigor with
+        practical business insight. His background includes leadership across financial planning and
+        analysis, strategic decision support, performance improvement, operational finance, and executive-level partnership.
+      </p>
 
-<section class="focus">
+      <p>
+        He has built and led finance functions that not only safeguard the business, but actively help drive it forward —
+        equipping leaders with the visibility, discipline, and confidence needed to make stronger decisions.
+      </p>
 
-<div class="wrap">
-
-<h2>Leadership Focus</h2>
-
-<div class="focus-grid">
-
-<div class="focus-card">
-<h3>Financial Strategy</h3>
-<p>Long-term financial planning, capital allocation, and performance optimization.</p>
-</div>
-
-<div class="focus-card">
-<h3>Operational Finance</h3>
-<p>Driving efficiency, cost discipline, and data-driven decision making.</p>
-</div>
-
-<div class="focus-card">
-<h3>Business Transformation</h3>
-<p>Guiding organizations through growth, restructuring, and change.</p>
-</div>
-
-<div class="focus-card">
-<h3>Executive Leadership</h3>
-<p>Partnering with CEOs and boards to shape strategy and enterprise value.</p>
-</div>
-
-</div>
-
-</div>
-
+      <p>
+        Whether supporting growth, transformation, or organizational complexity, Jim’s focus remains the same:
+        build financial clarity, improve execution, and create sustainable value.
+      </p>
+    </div>
+  </div>
 </section>
 
+<section class="section section-soft">
+  <div class="wrap">
+    <div class="section-head">
+      <p class="section-label">Core Areas of Leadership</p>
+      <h2>Where Jim adds value</h2>
+    </div>
 
+    <div class="cards-grid">
+      <article class="info-card">
+        <h3>Financial Planning & Analysis</h3>
+        <p>Budgeting, forecasting, scenario planning, KPI development, and performance visibility for executive teams.</p>
+      </article>
 
-<section class="experience">
+      <article class="info-card">
+        <h3>Operational Finance</h3>
+        <p>Margin improvement, cost management, process discipline, and stronger alignment between finance and operations.</p>
+      </article>
 
-<div class="wrap">
+      <article class="info-card">
+        <h3>Transformation & Change</h3>
+        <p>Supporting restructuring, scaling, system improvements, and strategic shifts with steady financial leadership.</p>
+      </article>
 
-<h2>Executive Experience</h2>
+      <article class="info-card">
+        <h3>Board & Executive Reporting</h3>
+        <p>Clear, relevant communication that helps leadership teams and boards make informed decisions.</p>
+      </article>
 
-<p>
-Jim has served in senior financial leadership roles across multiple organizations, 
-leading teams responsible for financial planning, corporate finance, 
-operational analytics, and enterprise financial strategy.
-</p>
+      <article class="info-card">
+        <h3>Risk & Financial Controls</h3>
+        <p>Strengthening oversight, accountability, and decision support in dynamic and complex business environments.</p>
+      </article>
 
-<p>
-His work consistently centers on aligning financial insight with strategic 
-decision-making to drive sustainable growth and organizational performance.
-</p>
-
-</div>
-
+      <article class="info-card">
+        <h3>Strategic Partnership</h3>
+        <p>Collaborating across the enterprise to connect financial strategy with business priorities and growth goals.</p>
+      </article>
+    </div>
+  </div>
 </section>
 
+<section class="section">
+  <div class="wrap leadership-grid">
+    <div>
+      <p class="section-label">Leadership Approach</p>
+      <h2>A CFO perspective that balances numbers with judgment.</h2>
+    </div>
 
+    <div>
+      <p>
+        Strong finance leadership is not only about reporting the numbers — it is about helping organizations
+        understand what the numbers mean, what risks matter most, and where the business can move with confidence.
+      </p>
 
-<section id="contact">
+      <p>
+        Jim’s approach emphasizes accountability, thoughtful analysis, and partnership. He believes the finance
+        function should be both disciplined and forward-looking: protecting the business while helping leadership
+        pursue the right opportunities.
+      </p>
+    </div>
+  </div>
+</section>
 
-<div class="wrap contact">
+<section class="section cta-section">
+  <div class="wrap cta-box">
+    <p class="section-label">Resume</p>
+    <h2>View Jim Kaiser’s executive background.</h2>
+    <p>
+      Download a current resume for a fuller view of leadership experience, financial expertise, and executive impact.
+    </p>
+    <a class="btn" href="/assets/Jim-Kaiser-Resume.pdf">Download Resume</a>
+  </div>
+</section>
 
-<h2>Connect</h2>
+<section id="contact" class="section contact-section">
+  <div class="wrap contact-box">
+    <p class="section-label">Contact</p>
+    <h2>Connect with Jim Kaiser</h2>
+    <p>
+      For executive opportunities, board roles, consulting conversations, or professional inquiries:
+    </p>
 
-<p>
-For board opportunities, executive roles, or advisory work, please reach out.
-</p>
-
-<div class="contact-links">
-
-<a href="mailto:email@example.com">
-Email
-</a>
-
-<a href="https://www.linkedin.com/in/jameskaiser1/" target="_blank">
-LinkedIn
-</a>
-
-</div>
-
-</div>
-
+    <div class="contact-links">
+      <a href="mailto:email@example.com">email@example.com</a>
+      <a href="https://www.linkedin.com/in/jameskaiser1/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
 </section>
