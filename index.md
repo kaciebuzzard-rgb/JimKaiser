@@ -3,15 +3,14 @@
 layout: default
 title: Jim Kaiser | Chief Financial Officer
 -------------------------------------------
+<div class="hero-image-card">
 
-<section class="hero" id="top">
+<img
+src="/assets/img/jim-kaiser-cfo-headshot.jpg"
+alt="Jim Kaiser Chief Financial Officer"
+class="profile-photo">
 
-<div class="hero-overlay"></div>
-
-<div class="container hero-grid">
-
-<div class="hero-copy">
-
+</div>
 <p class="eyebrow">Chief Financial Officer</p>
 
 <h1>
