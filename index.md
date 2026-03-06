@@ -34,6 +34,12 @@ Download Resume
 Contact
 </a>
 
+<a class="btn btn-link"
+href="https://www.linkedin.com/in/jameskaiser1/"
+target="_blank"
+rel="noopener">
+LinkedIn </a>
+
 </div>
 
 </div>
@@ -177,94 +183,4 @@ executive leaders, and stakeholders.
 <li>Capital planning and cash management</li>
 <li>Operational financial analytics</li>
 <li>Cross-functional leadership</li>
-<li>Process and systems improvement</li>
-
-</ul>
-
-</div>
-
-<div class="panel">
-
-<h3>Leadership Approach</h3>
-
-<ul class="clean-list">
-
-<li>Data-informed decision making</li>
-<li>Collaborative leadership</li>
-<li>Operational accountability</li>
-<li>Clear executive communication</li>
-<li>Focus on sustainable growth</li>
-<li>Strong governance practices</li>
-
-</ul>
-
-</div>
-
-</div>
-
-</div>
-
-</section>
-
-<section class="section section-alt" id="resume">
-
-<div class="container resume-block">
-
-<div>
-
-<p class="section-label">Resume</p>
-
-<h2>Download Jim Kaiser’s Resume</h2>
-
-<p>
-Access a PDF overview of Jim’s professional leadership experience,
-financial expertise, and executive background.
-</p>
-
-</div>
-
-<div class="resume-action">
-
-<a class="btn" href="/resume.pdf" download>
-Download Resume
-</a>
-
-</div>
-
-</div>
-
-</section>
-
-<section class="section" id="contact">
-
-<div class="container narrow contact-block">
-
-<p class="section-label">Contact</p>
-
-<h2>Connect with Jim</h2>
-
-<p>
-For executive leadership opportunities, board positions,
-or advisory conversations.
-</p>
-
-<div class="contact-actions">
-
-<a class="btn" href="mailto:jimkaiser@live.com">
-jimkaiser@live.com
-</a>
-
-<a class="btn btn-secondary"
-href="https://www.linkedin.com/in/jameskaiser1/"
-target="_blank"
-rel="noopener">
-
-LinkedIn
-
-</a>
-
-</div>
-
-</div>
-
-</section>
+<li
