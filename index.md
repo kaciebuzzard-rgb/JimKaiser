@@ -1,16 +1,14 @@
 ---
-
 layout: default
 title: Jim Kaiser | Chief Financial Officer
--------------------------------------------
-<div class="hero-image-card">
+---
 
-<img
-src="/assets/img/jim-kaiser-cfo-headshot.jpg"
-alt="Jim Kaiser Chief Financial Officer"
-class="profile-photo">
+<section class="hero" id="top">
 
-</div>
+<div class="container hero-grid">
+
+<div class="hero-text-block">
+
 <p class="eyebrow">Chief Financial Officer</p>
 
 <h1>
@@ -37,7 +35,8 @@ Contact
 href="https://www.linkedin.com/in/jameskaiser1/"
 target="_blank"
 rel="noopener">
-LinkedIn </a>
+LinkedIn
+</a>
 
 </div>
 
@@ -46,14 +45,16 @@ LinkedIn </a>
 <div class="hero-image-card">
 
 <img
-src="/assets/img/headshot.jpg"
-alt="Jim Kaiser Chief Financial Officer headshot">
+src="/assets/img/jim-kaiser-cfo-headshot.jpg"
+alt="Jim Kaiser Chief Financial Officer"
+class="profile-photo">
 
 </div>
 
 </div>
 
 </section>
+
 
 <section class="section" id="about">
 
@@ -79,6 +80,7 @@ improve performance, strengthen financial clarity, and guide strategic decisions
 
 </section>
 
+
 <section class="section section-alt" id="expertise">
 
 <div class="container">
@@ -90,69 +92,51 @@ improve performance, strengthen financial clarity, and guide strategic decisions
 <div class="card-grid">
 
 <article class="card">
-
 <h3>Financial Strategy</h3>
-
 <p>
 Long-range planning, profitability analysis, and strategic financial leadership
 for executive teams and boards.
 </p>
-
 </article>
 
 <article class="card">
-
 <h3>Forecasting & Planning</h3>
-
 <p>
 Budgeting, forecasting, and scenario modeling to support
 data-driven executive decision making.
 </p>
-
 </article>
 
 <article class="card">
-
 <h3>Operational Finance</h3>
-
 <p>
 Driving financial performance through analytics,
 process improvement, and cost discipline.
 </p>
-
 </article>
 
 <article class="card">
-
 <h3>Risk & Governance</h3>
-
 <p>
 Financial controls, governance oversight, and regulatory compliance
 to support enterprise stability.
 </p>
-
 </article>
 
 <article class="card">
-
 <h3>Leadership Development</h3>
-
 <p>
 Building strong finance organizations and developing
 high-performing finance teams.
 </p>
-
 </article>
 
 <article class="card">
-
 <h3>Executive Communication</h3>
-
 <p>
 Communicating financial insights clearly to boards,
 executive leaders, and stakeholders.
 </p>
-
 </article>
 
 </div>
@@ -160,6 +144,7 @@ executive leaders, and stakeholders.
 </div>
 
 </section>
+
 
 <section class="section" id="leadership">
 
@@ -176,10 +161,65 @@ executive leaders, and stakeholders.
 <h3>Strategic Value</h3>
 
 <ul class="clean-list">
-
 <li>Enterprise financial leadership</li>
 <li>Board and executive reporting</li>
 <li>Capital planning and cash management</li>
 <li>Operational financial analytics</li>
 <li>Cross-functional leadership</li>
-<li
+<li>Strategic decision support</li>
+</ul>
+
+</div>
+
+<div class="panel">
+
+<h3>Leadership Approach</h3>
+
+<ul class="clean-list">
+<li>Clear, disciplined financial management</li>
+<li>Alignment between finance and business strategy</li>
+<li>Transparent executive communication</li>
+<li>Focus on long-term enterprise value</li>
+<li>Operational accountability</li>
+<li>Collaborative leadership style</li>
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<section class="section section-alt" id="contact">
+
+<div class="container narrow center">
+
+<p class="section-label">Connect</p>
+
+<h2>Professional Contact</h2>
+
+<p>
+For board opportunities, executive leadership roles, or professional inquiries.
+</p>
+
+<div class="hero-actions center">
+
+<a class="btn btn-primary" href="mailto:jimkaiser@live.com">
+Email Jim
+</a>
+
+<a class="btn btn-link"
+href="https://www.linkedin.com/in/jameskaiser1/"
+target="_blank"
+rel="noopener">
+LinkedIn Profile
+</a>
+
+</div>
+
+</div>
+
+</section>
